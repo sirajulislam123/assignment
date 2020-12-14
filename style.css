@@ -1,0 +1,49 @@
+body{ background:url(images/cheap_diagonal_fabric.png); margin:opx; padding:0px;}
+	.main{ width:1300px; margin:0px auto;}
+		.box{ width:1300px; background-color:#CCCCCC; float:left;}
+		.top{ background:#CCCCCC; width:1295px; height:200px; border-radius:20px 20px 0 0; border:3px #006666 solid ;}
+			.logo{ margin-top:70px; margin-left:100px; float:left}
+			.logo h2{ text-align:center; width:200px;}
+					.slogon{ float:right}
+					.slogon h2{ padding-top:70px; padding-right:100px;}
+						.banner{}
+	    				.banner img{ width:1300px; height:400px}
+		                         .menu{ background: #CCCCCC; width:1300px; height:50px; float:left;} 
+								 .menu ul{}
+								 .menu ul li{ float:left; padding-left:50px; list-style: none;}
+								 .menu ul li a{ text-decoration:none; font-size:20px; background: #000000; border-radius:5px; padding:10; color: #FFFFFF; border:solid  #0000CC;}
+								 .menu ul li a:hover{ background: #CCCCCC}	
+			  		
+						.left{ width:250px; float:left; background:#CCCCCC;}
+						.news{}
+						.news h2{ background: #66FF33; text-align:center; padding:10px; width:150px; border:1px solid #000000; margin-left:10px;}
+						.news p{ margin-left:10px;}
+						
+							.middle{width:800px; float:left;}
+
+.dir{}
+
+.dir h2{background:#66FF33; text-align:center; padding:10px;  border:1px solid #000000;}
+
+.dir img{width:200px; height:200px; float:left; padding-left:20px; padding-right:20px;}
+
+.dir p{}
+								.right{width:250px; float:left;}
+
+.loc{}
+
+.loc h2{background:#66FF33; text-align:center; padding:10px; border:1px solid #000000;}
+
+.loc img{width:230px; height:500px; padding-left:10px;}
+
+.pro{}
+
+.pro h2{background:#66FF33; text-align:center; padding:10px; border:1px solid #000000;}
+
+.pro img{width:230px; height:200px;}
+
+.ending{}
+
+.ending h2{text-align:center; padding-top:50px; color:#FFFFFF;}
+
+.footer{width:1295px; height:150px; background:#66FF33; float:left; border:2px solid #000000; border-radius:0 0 30px 30px  ;}
